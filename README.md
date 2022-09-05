@@ -9,7 +9,7 @@ Download all presets (https://github.com/RGarciaLago/VIDEO-PRESETS-by-Robby/tree
 You can automatically download and get latest with the MiSTer update script (and update_all) by adding the following text to the `/media/fat/downloader.ini` file:
 ```
 [VIDEO-PRESETS-by-Robby]
-db_url = 'https://raw.githubusercontent.com/RGarciaLago/VIDEO-PRESETS-by-Robby/db/db.json.zip'
+db_url = https://raw.githubusercontent.com/RGarciaLago/VIDEO-PRESETS-by-Robby/db/db.json.zip
 ```
 
 ## Usage
