@@ -6,18 +6,18 @@ These are video preset files you can use to easily configure a core's video sett
 Download [all presets](https://github.com/RGarciaLago/VIDEO-PRESETS-by-Robby/tree/main/Presets) to the `/media/fat/Presets/` folder on your SD card.
 
 ### Updates
-You can automatically download and get latest with the MiSTer update script (and update_all) by adding the following text to `/media/fat/downloader.ini`:
+You can automatically download and get latest with the MiSTer update script and [update_all](https://github.com/theypsilon/Update_All_MiSTer) by adding the following text to `/media/fat/downloader.ini`:
 ```ini
 [RGarciaLago/VIDEO_PRESETS_by_Robby]
 db_url = https://raw.githubusercontent.com/RGarciaLago/VIDEO_PRESETS_by_Robby/db/db.json.zip
 ```
 
 ## Usage
-Once you've installed all presets you can apply them by following these instructions:
+Once you've installed the presets you can apply them by following these instructions:
 1. Within a core, press the menu button to bring up the Core menu, then push right to view the `System` menu.
 2. In the System menu, select the `Video processing` option.
 3. Within Video processing select the top option called `Load preset`.
-4. Select any preset you'd like to update all Video processing options for that core.
+4. Select any preset you'd like to apply and all Video processing options for that core will be updated.
 
 
 ### General Presets
