@@ -29,9 +29,6 @@ Arcade presets are available for horizontal monitors, vertical monitors, and vec
 ### Core Specific Presets
 All handhelds (or consoles with a unique display method) have specific presets due to the quirks of their display. These are intended to work at any resolution or scaling method applied.
 
-Some handhelds have had presets with shadow masks created but these are provided as optional within the "With Shadow Masks" folder. Use v-integer scaling with any presets that have shadow masks so they remain aligned with the handheld's pixel dimensions.
-
-
 
 ## More Resources
 For more extensions and utilities to make your MiSTer even better go here: https://github.com/wizzomafizzo/mrext
