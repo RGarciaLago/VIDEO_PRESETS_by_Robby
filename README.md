@@ -31,4 +31,6 @@ All handhelds (or consoles with a unique display method) have specific presets d
 
 
 ## More Resources
-For more extensions and utilities to make your MiSTer even better go here: https://github.com/wizzomafizzo/mrext
+For more extensions and utilities to improve your MiSTer, see [Wizzo](https://github.com/wizzomafizzo)'s list: https://github.com/wizzomafizzo/mrext
+
+Thanks to [theypsilon](https://github.com/theypsilon) for the custom database, to [tonuric](https://github.com/tonurics) & [Trash Uncle](https://github.com/trashuncle) for the awesome shadowmasks/filters, and to [Kitrinx](https://github.com/Kitrinx) for guidance!
