@@ -21,7 +21,7 @@ Once you've installed the presets you can apply them by following these instruct
 3. Within Video processing select the top option called `Load preset`.
 4. Select any preset you'd like to apply and all Video processing options for that core will be updated.
 
-### General Presets
+### General Hardware Presets
 These aren't specific to a single core but meant to be applied to game platforms that are similar or are from the same time period.
 
 Arcade presets are available for horizontal monitors, vertical monitors, and vector displays. There's a single Computer preset (for now) and game consoles have their presets separated into [hardware generations](https://en.wikipedia.org/wiki/Home_video_game_console_generations) to reflect display technology of the time.
