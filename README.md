@@ -1,4 +1,5 @@
 # [VIDEO PRESETS by Robby] for the [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
+##### ❗ ***These presets are now officially part of [MiSTer-devel](https://github.com/MiSTer-devel/Presets_MiSTer) but this repo will be used to test out changes before adding them to Presets_MiSTer.*** ❗
 These are video preset files you can use to easily configure a core's video settings. These presets present an idealized version how a game platform's visuals appeared when it was new and provides you a starting point to make your own presets. Have fun!
 
 
