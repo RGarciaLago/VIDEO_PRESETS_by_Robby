@@ -25,7 +25,7 @@ Once you've installed the presets you can apply them by following these instruct
 ### General Hardware Presets
 These aren't specific to a single core but meant to be applied to game platforms that are similar or are from the same time period.
 
-Arcade presets are available for horizontal monitors, vertical monitors, and vector displays. There's a single Computer preset (for now) and game consoles have their presets separated into [hardware generations](https://en.wikipedia.org/wiki/Home_video_game_console_generations) to reflect display technology of the time.
+Arcade presets are available for horizontal monitors, vertical monitors, and vector displays. There are a couple Computer presets and game consoles have their presets separated into [hardware generations](https://en.wikipedia.org/wiki/Home_video_game_console_generations) to reflect display technology of the time.
 
 ### Core Specific Presets
 All handhelds (or consoles with a unique display method) have specific presets due to the quirks of their display. These are intended to work at any resolution or scaling method applied.
