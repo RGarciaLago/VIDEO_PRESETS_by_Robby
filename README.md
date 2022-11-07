@@ -32,7 +32,7 @@ All handhelds (or consoles with a unique display method) have specific presets d
 
 
 ## More Resources
-Use my preset pack of modified core shortcuts (MGL files) to have automatic alternate core configs: https://github.com/RGarciaLago/MGL_Core_Setnames
+Use my preset pack of core shortcuts (MGL files) to have different configs in a core for video presets: https://github.com/RGarciaLago/MGL_Core_Setnames
 
 For more extensions and utilities to improve your MiSTer: https://github.com/wizzomafizzo/mrext
 
