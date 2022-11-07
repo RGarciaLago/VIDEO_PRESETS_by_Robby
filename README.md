@@ -32,6 +32,8 @@ All handhelds (or consoles with a unique display method) have specific presets d
 
 
 ## More Resources
-For more extensions and utilities to improve your MiSTer, see [Wizzo](https://github.com/wizzomafizzo)'s list: https://github.com/wizzomafizzo/mrext
+Use my preset pack of modified core shortcuts (MGL files) to have automatic alternate core configs: https://github.com/RGarciaLago/MGL_Core_Setnames
+
+For more extensions and utilities to improve your MiSTer: https://github.com/wizzomafizzo/mrext
 
 Thanks to [Kitrinx](https://github.com/Kitrinx) for guidance, [theypsilon](https://github.com/theypsilon) for the custom database, and [tonurics](https://github.com/tonurics) & [Trash Uncle](https://github.com/trashuncle) for the shadowmasks/filters!
