@@ -34,6 +34,8 @@ All handhelds (or consoles with a unique display method) have specific presets d
 ## More Resources
 Use my preset pack of core shortcuts (MGL files) to have different configs in a core for video presets: https://github.com/RGarciaLago/MGL_Core_Setnames
 
-For more extensions and utilities to improve your MiSTer: https://github.com/wizzomafizzo/mrext
+Use my [MGL_Core_Setnames](https://github.com/RGarciaLago/MGL_Core_Setnames) pack of core shortcuts (MGL files) to have different configs in a core for video presets. 
 
-Thanks to [Kitrinx](https://github.com/Kitrinx) for guidance, [theypsilon](https://github.com/theypsilon) for the custom database, and [tonurics](https://github.com/tonurics) & [Trash Uncle](https://github.com/trashuncle) for the shadowmasks/filters!
+Check out [Wizzo](https://github.com/wizzomafizzo)'s amazing set of [MiSTer Extensions](https://github.com/wizzomafizzo/mrext) to improve your MiSTer user experience.
+
+Thanks to [Kitrinx](https://github.com/Kitrinx) for guidance, [tonurics](https://github.com/tonurics) & [Trash Uncle](https://github.com/trashuncle) for the shadowmasks/filters, and [theypsilon](https://github.com/theypsilon) for the custom database!
