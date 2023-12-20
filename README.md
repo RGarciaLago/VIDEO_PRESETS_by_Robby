@@ -32,9 +32,7 @@ All handhelds (or consoles with a unique display method) have specific presets d
 
 
 ## More Resources
-Use my preset pack of core shortcuts (MGL files) to have different configs in a core for video presets: https://github.com/RGarciaLago/MGL_Core_Setnames
-
-Use my [MGL_Core_Setnames](https://github.com/RGarciaLago/MGL_Core_Setnames) pack of core shortcuts (MGL files) to have different configs in a core for video presets. 
+Use my [MGL_Core_Setnames](https://github.com/RGarciaLago/MGL_Core_Setnames) pack of core shortcuts (MGL files) to have different configs in a core for video presets. Also available is my [Wallpaper_Collection](https://github.com/RGarciaLago/Wallpaper_Collection) to give you a ton of great backgrounds for the main menu.
 
 Check out [Wizzo](https://github.com/wizzomafizzo)'s amazing set of [MiSTer Extensions](https://github.com/wizzomafizzo/mrext) to improve your MiSTer user experience.
 
